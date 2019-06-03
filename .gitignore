@@ -1,0 +1,12 @@
+## ignore all directories called `data` (usually containing data, sometimes lots of it)
+data/
+  cache/
+  
+  ## ignore this `csv` files
+  SmallerDataFile.csv
+MyDataFile
+.html
+
+## R hidden files
+.RData
+.Rhistory

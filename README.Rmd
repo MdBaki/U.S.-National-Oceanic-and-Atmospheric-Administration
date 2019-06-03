@@ -1,9 +1,10 @@
 ---
-title: "Untitled"
+title: "READ"
 author: "baki"
 date: "6/2/2019"
 output: html_document
 ---
+
 The U.S. National Oceanic and Atmospheric Administration's (NOAA) Storm Database
 ========================================================
 ## Intoroduction
@@ -21,4 +22,3 @@ The scripts found in this repo perform the following tasks (see individual scrip
 - `Results.R` computes fatalities and injuries resulting from the weather events. And also plots the results.
 Acknowledgments:
 * The rationale for selecting these 5 categories was drawn [from here] (http://www.ncdc.noaa.gov/oa/climate/sd/annsum2009.pdf). And the ideas and methods on how to do this using regular expressions were gleaned from various sources, including the discussion forums at `stackoverflow` and coursera's discussion forums ([e.g.this](https://class.coursera.org/repdata-002/forum/thread?thread_id=32) or [this](https://class.coursera.org/repdata-002/forum/thread?thread_id=46)).
-
